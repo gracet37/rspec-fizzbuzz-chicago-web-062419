@@ -8,5 +8,4 @@ def fizzbuzz(int)
 else 
   return "nil"
 end
-return "Fizz"
 end
